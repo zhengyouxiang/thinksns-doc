@@ -1,0 +1,19 @@
+{
+	"title": "Thinksns非官方文档",
+	"tagline": "Thinksns非官方文档!聚合所有Thinksns的使用方法",
+	"float": false,
+	"docs_path": "docs",
+	"image": "img/app.png",
+	"theme": "blue",
+	"repo": "xin-meng/daux",
+	"date_modified": true,
+	"timezone": "Europe/London",
+	"google_analytics": "UA-40931165-3",
+	"twitter": ["xin_meng_1"],
+	"links": {
+	"Download 下载": "https://github.com/xin-meng/daux/archive/master.zip",
+	"GitHub Repo 版本控制": "https://github.com/xin-meng/daux",
+	"Help/Support/Bugs 帮助/支持/错误": "https://github.com/xin-meng/daux/issues",
+	"Fix by Xin Meng 由Xin Meng中文汉化": "http://blog.emx2.co.uk"
+	}
+}

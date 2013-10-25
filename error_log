@@ -1,0 +1,3 @@
+[24-Oct-2013 15:38:41 America/New_York] PHP Warning:  array_merge(): Argument #2 is not an array in /home/xinx10m2/public_html/emx2.co.uk/doc/libs/functions.php on line 55
+[24-Oct-2013 15:38:41 America/New_York] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/xinx10m2/public_html/emx2.co.uk/doc/libs/functions.php on line 61
+[24-Oct-2013 15:38:41 America/New_York] PHP Warning:  join(): Invalid arguments passed in /home/xinx10m2/public_html/emx2.co.uk/doc/libs/functions.php on line 61
